@@ -1,0 +1,27 @@
+{
+  "name": "mylife-appmon-plugin-mongo",
+  "version": "1.0.0",
+  "description": "MyLife Application Monitoring Plugin Mongo",
+  "main": "lib/index.js",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "mongodb": "^3.1.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "mylife-appmon": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-tr/mylife-appmon-plugin-mongo.git"
+  },
+  "author": "Vincent Trumpff",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vincent-tr/mylife-appmon-plugin-mongo/issues"
+  },
+  "homepage": "https://github.com/vincent-tr/mylife-appmon-plugin-mongo#readme"
+}
